@@ -1,7 +1,11 @@
+import Layout from "../../components/Layout"
+import Link from "next/link"
+
 export default function EventPage() {
     return (
-        <div>
+        <Layout>
             <h1>Event pages</h1>
-        </div>
+            <Link href="/">Home</Link>
+        </Layout>
     )
 }
