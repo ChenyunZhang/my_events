@@ -4,3 +4,7 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+
+
+
+_rfc to create component
